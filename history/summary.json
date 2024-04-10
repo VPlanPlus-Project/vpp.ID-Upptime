@@ -40,19 +40,19 @@
     "url": "https://vplan.plus/api/v2/school/10063764/classes",
     "icon": "https://icons.duckduckgo.com/ip3/vplan.plus.ico",
     "slug": "api-classes",
-    "status": "degraded",
-    "uptime": "33.12%",
-    "uptimeDay": "33.12%",
-    "uptimeWeek": "33.12%",
-    "uptimeMonth": "33.12%",
-    "uptimeYear": "33.12%",
-    "time": 1774,
-    "timeDay": 1774,
-    "timeWeek": 1774,
-    "timeMonth": 1774,
-    "timeYear": 1774,
+    "status": "down",
+    "uptime": "0.28%",
+    "uptimeDay": "0.28%",
+    "uptimeWeek": "0.28%",
+    "uptimeMonth": "0.28%",
+    "uptimeYear": "0.28%",
+    "time": 974,
+    "timeDay": 974,
+    "timeWeek": 974,
+    "timeMonth": 974,
+    "timeYear": 974,
     "dailyMinutesDown": {
-      "2024-04-10": 0
+      "2024-04-10": 26
     }
   }
 ]
