@@ -5,11 +5,13 @@ repo: vpp.ID-Upptime # The name of this repository
 sites:
   - name: Homepage
     url: https://vplan.plus
+    maxResponseTime: 1000
   - name: API Schools
     url: https://vplan.plus/api/v2/schools
+    maxResponseTime: 5000
   - name: API Classes
     url: https://vplan.plus/api/v2/school/10063764/classes
-    maxResponseTime: 1000
+    maxResponseTime: 5000
     headers:
       - "Authorization: Basic $SP24_MANOS_TOKEN"
     
