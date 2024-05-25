@@ -1,7 +1,7 @@
 url: https://vplan.plus/api/v2/school/10063764/classes
-status: degraded
+status: up
 code: 200
-responseTime: 11664
-lastUpdated: 2024-05-24T23:15:00.013Z
+responseTime: 2008
+lastUpdated: 2024-05-25T09:24:52.214Z
 startTime: 2024-04-10T15:16:27.205Z
 generator: Upptime <https://github.com/upptime/upptime>
