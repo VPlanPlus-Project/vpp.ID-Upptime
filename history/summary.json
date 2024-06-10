@@ -4,10 +4,10 @@
     "url": "https://vplan.plus",
     "icon": "https://icons.duckduckgo.com/ip3/vplan.plus.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 612,
@@ -15,17 +15,19 @@
     "timeWeek": 669,
     "timeMonth": 663,
     "timeYear": 612,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-10": 1
+    }
   },
   {
     "name": "API Schools",
     "url": "https://vplan.plus/api/v2/schools",
     "icon": "https://icons.duckduckgo.com/ip3/vplan.plus.ico",
     "slug": "api-schools",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
@@ -33,25 +35,28 @@
     "timeWeek": 124,
     "timeMonth": 237,
     "timeYear": 188,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-10": 1
+    }
   },
   {
     "name": "API Classes",
     "url": "https://vplan.plus/api/v2/school/10063764/classes",
     "icon": "https://icons.duckduckgo.com/ip3/vplan.plus.ico",
     "slug": "api-classes",
-    "status": "up",
-    "uptime": "82.61%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "82.81%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "77.10%",
-    "uptimeYear": "82.61%",
+    "uptimeMonth": "79.50%",
+    "uptimeYear": "82.81%",
     "time": 3618,
     "timeDay": 348,
     "timeWeek": 546,
-    "timeMonth": 4264,
+    "timeMonth": 3708,
     "timeYear": 3618,
     "dailyMinutesDown": {
+      "2024-06-10": 0,
       "2024-05-30": 372,
       "2024-05-29": 769,
       "2024-05-25": 565,
