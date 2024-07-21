@@ -1,7 +1,7 @@
 url: https://vplan.plus
-status: degraded
-code: 502
-responseTime: 19385
-lastUpdated: 2024-07-21T14:19:21.962Z
+status: up
+code: 200
+responseTime: 740
+lastUpdated: 2024-07-21T14:30:11.921Z
 startTime: 2024-04-10T15:16:25.908Z
 generator: Upptime <https://github.com/upptime/upptime>
