@@ -7,7 +7,7 @@ sites:
     url: https://vplan.plus
     maxResponseTime: 1000
   - name: API Schools
-    url: https://vplan.plus/api/v2/schools
+    url: https://vplan.plus/api/v2.1/school
     maxResponseTime: 5000
   - name: API Classes
     url: https://vplan.plus/api/v2/school/10063764/classes
